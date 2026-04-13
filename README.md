@@ -185,3 +185,7 @@ This repository is released under the MIT License—see LICENSE for details.
 EfficientNet‑Pytorch for the backbone implementation.
 
 Original SEM datasets provided by the MII Research Lab.
+
+Published in npj computational materials :
+Oh, J., Yeom, J., Madika, B. et al. Composition and state prediction of lithium-ion cathode via convolutional neural network trained on scanning electron microscopy images. npj Comput Mater 10, 88 (2024). https://doi.org/10.1038/s41524-024-01279-6
+pu
